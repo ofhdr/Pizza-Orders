@@ -1,0 +1,11 @@
+
+****************************************** M E N U ******************************************
+1: Classic Pizza...........30 TL
+(It is made with cheese, sausage, salami, mushroom, green pepper, black olive, corn.)
+2: Margharita Pizza........35 TL
+(It is a Napoli pizza made with tomatoes, mozzarella, basil and olive oil.)
+3: BBQ Chicken Pizza.......40 TL
+(It is made with barbecue sauce, mozzarella cheese, onion, corn, chicken doner and thyme.)
+4: Four Cheese Pizza..........45 TL
+(It is made with cream, mozzarella cheese, feta cheese, parmesan cheese, sesame, mayonnaise.)
+--------------------------------------------------------------------------------------------
